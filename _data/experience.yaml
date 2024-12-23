@@ -1,0 +1,24 @@
+experiences:
+  - place: 'Golden Owl Solutions'
+    time: '05/2020 - now'
+    title: 'Software Engineer'
+    subtitle: 'Web Development'
+    category: 'work'
+
+  - place: 'University of Information Technology - VNUHCM'
+    time: '2022 - now'
+    title: 'M.Sc. Student'
+    subtitle: 'Computer Science'
+    category: 'school'
+
+  - place: 'Golden Owl Solutions'
+    time: '02/2020 - 05/2020'
+    title: 'Software Engineer, Intern'
+    subtitle: 'Web Development'
+    category: 'work'
+
+  - place: 'University of Information Technology - VNUHCM'
+    time: '2016 - 2022'
+    title: 'B.Sc. Student'
+    subtitle: 'Computer Systems Networking and Telecommunications'
+    category: 'school'
